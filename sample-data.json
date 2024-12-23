@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "age": 29,
+        "preferences": {
+            "newsletter": true,
+            "notifications": ["email", "sms"]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "age": 34,
+        "preferences": {
+            "newsletter": false,
+            "notifications": ["email"]
+        }
+    },
+    {
+        "id": 3,
+        "name": "Alice Johnson",
+        "email": "alice.j@example.com",
+        "age": 25,
+        "preferences": {
+            "newsletter": true,
+            "notifications": ["app", "email"]
+        }
+    }
+]
